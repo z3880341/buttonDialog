@@ -3,9 +3,14 @@
 
 
 使用方法说明
+
+
 	/**
      * 字体工具对话框
      */
+     
+     
+     
     private void showFontToolsDialog(){
         if (mFontToolsDialog == null){
             int dialogWidth = mDisplayMetrics.widthPixels/2;
